@@ -1,0 +1,71 @@
+body{
+  background-image: url(image/tela\ de\ fundo.avif) ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 5%;
+  
+}
+#logo{
+  max-width: 200px;
+  max-height: 200px;
+}
+header{
+  display: flex;
+  flex-direction: row;
+}
+#icon{
+  display: flex;
+  flex-direction: row;
+  margin-left: 30%;
+  max-width: 10vh;
+  max-height: 100px;
+}
+#titulo{
+  margin-right: 20%;
+  color: white;
+  font-size: 50px;
+
+ 
+}
+#Contatos{
+  margin: auto;
+  color: white;
+  border: solid;
+  padding: 10px;
+  border-radius: 20px;
+  margin-left: 50%;
+}
+
+#texto-principal{
+  max-width: 35%;
+  font-size: 30px;
+  color: white;
+ margin-left: 10%;
+}
+
+#missao{
+  color: white;
+  font-size: 40px;
+  max-width: 30%;
+  
+}
+#text1{
+  color: white;
+  font-size: 20px;
+  max-width: 40%;
+ 
+  
+}
+
+#imagemcorte
+{
+  border: solid white;
+  border-radius: 5%;
+  padding: 2%;
+  
+}
+
+#text{
+  display: flex;
+  justify-content: space-between;
+}
